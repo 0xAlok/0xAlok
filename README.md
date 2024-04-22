@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning Openshift.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with DevRel and all its shenanigans. 
-[comment] - 💬 Ask me about DevOps and getting started with programming.
+- 💬 Ask me about DevOps and getting started with programming.
 
