@@ -1,4 +1,4 @@
-### Hi There 👋👋
+### Hi There 👋
 
 
 - 🔭 I’m currently working on building a knowledge base.
