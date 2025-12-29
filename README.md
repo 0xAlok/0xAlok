@@ -2,7 +2,7 @@
 
 ### ML Engineer • Building Scalable AI Infrastructure
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xAlok&label=Profile views&color=0e75b6&style=flat" alt="0xAlok" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xAlok&label=Profile%20views&color=0e75b6&style=flat" alt="0xAlok" /> </p>
 
 - 🔭 I'm currently working on **a Production RAG system.**
 
