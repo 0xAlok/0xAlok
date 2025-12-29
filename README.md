@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MLOps.**
 
-- 👯 I’m looking to collaborate on **ML projects.**
+- 👯 I’m looking to collaborate on **ML projects, Open Source.**
 
 - 👨‍💻 All of my projects are available at [github.com/0xAlok](github.com/0xAlok)
 
