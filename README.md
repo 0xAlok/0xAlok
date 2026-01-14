@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alok
+# Hi 👋, I'm Alok Gangwar
 
 ### ML Engineer • Building Scalable AI Infrastructure
 
