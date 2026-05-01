@@ -23,8 +23,7 @@
 
 ![Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,cpp,css,django,docker,express,fastapi,figma,firebase,flask,git,go,grafana,html,java,js,jenkins,kubernetes,linux,mongodb,mysql,nextjs,nginx,nodejs,opencv,postgres,postman,py,pytorch,react,redis,redux,tailwind,tensorflow,ts,vue&perline=10)
 
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
