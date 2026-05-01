@@ -4,8 +4,6 @@ ML engineer building practical AI systems, backend-heavy products, and random us
 
 I like shipping fast, learning in public, and turning rough ideas into working demos.
 
-- Currently building a production-grade RAG system (private).
-- Learning MLOps by doing, not by collecting certificates.
 - Open to collaborating on ML infra, agentic systems, and dev tooling.
 - Ask me about DevOps, ML projects, and getting started in programming.
 
