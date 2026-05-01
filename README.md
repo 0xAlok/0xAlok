@@ -71,10 +71,10 @@ I like shipping fast, learning in public, and turning rough ideas into working d
 
 ## Connect
 
-[<img alt="GitHub" width="32" src="https://cdn.simpleicons.org/github/white">](https://github.com/0xAlok)
-[<img alt="LinkedIn" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2">](https://linkedin.com/in/alokgangwar)
-[<img alt="Kaggle" width="32" src="https://cdn.simpleicons.org/kaggle/20BEFF">](https://kaggle.com/alokgangwar)
-[<img alt="X" width="32" src="https://cdn.simpleicons.org/x/white">](https://twitter.com/iam_alok_)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0xAlok)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alokgangwar)
+[![X](https://img.shields.io/badge/-@iam__alok__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iam_alok_)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/alokgangwar)
 
 - Email: **contact@alokgangwar.tech**
 
