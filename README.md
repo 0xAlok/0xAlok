@@ -1,33 +1,39 @@
 # Hi, I'm Alok Gangwar
 
-### ML Engineer • Building Scalable AI Infrastructure
+ML engineer building practical AI systems, backend-heavy products, and random useful tools on the internet.
 
-![Profile views](https://komarev.com/ghpvc/?username=0xAlok&label=Profile%20views&color=0e75b6&style=flat)
+I like shipping fast, learning in public, and turning rough ideas into working demos.
 
-- I'm currently working on **a Production RAG system.**
-- I'm currently learning **MLOps**
-- I'm looking to collaborate on **open source projects.**
-- Ask me about **DevOps and getting started with programming.**
-- How to reach me **contact@alokgangwar.tech**
-- All of my projects are available at **[alokgangwar.tech](https://alokgangwar.tech/)**
-- I regularly write articles on **[blissman.hashnode.dev](https://blissman.hashnode.dev/)**
+- Currently building a production-grade RAG system (private).
+- Learning MLOps by doing, not by collecting certificates.
+- Open to collaborating on ML infra, agentic systems, and dev tooling.
+- Ask me about DevOps, ML projects, and getting started in programming.
 
-## Connect with me
+## Current Projects
+
+- [ArchVizAI](https://github.com/0xAlok/ArchVizAI) - AI-assisted interior visualization (Next.js + FastAPI + SDXL via Replicate).
+- [Spatia](https://github.com/0xAlok/Spatia) - Parametric 3D room configurator for architecture/interior workflows.
+- [Quiz-Agent](https://github.com/0xAlok/Quiz-Agent) - Autonomous LangGraph/LangChain agent for multi-step data quizzes.
+- [Cinema-Audience-Forecasting](https://github.com/0xAlok/Cinema-Audience-Forecasting) - Kaggle-style forecasting project for theatre audience prediction.
+- [LaunchPad](https://github.com/0xAlok/LaunchPad) - Campus recruitment platform for institutes, recruiters, and students.
+- [TabNest](https://github.com/0xAlok/TabNest) - Browser extension to save and restore tab sessions in one click.
+
+## Writing / Learning in Public
+
+- Articles: [blissman.hashnode.dev](https://blissman.hashnode.dev/)
+- Website: [alokgangwar.tech](https://alokgangwar.tech/)
+
+## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-0xAlok-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xAlok)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alokgangwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alokgangwar)
 [![Kaggle](https://img.shields.io/badge/Kaggle-alokgangwar-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/alokgangwar)
 [![X](https://img.shields.io/badge/X-iam__alok__-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iam_alok_)
 
-## Languages and Tools
+- Email: **contact@alokgangwar.tech**
 
-![Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,cpp,css,django,docker,express,fastapi,figma,firebase,flask,git,go,grafana,html,java,js,jenkins,kubernetes,linux,mongodb,mysql,nextjs,nginx,nodejs,opencv,postgres,postman,py,pytorch,react,redis,redux,tailwind,tensorflow,ts,vue&perline=10)
+- ![Profile views](https://komarev.com/ghpvc/?username=0xAlok&label=Profile%20views&color=0e75b6&style=flat)
 
+---
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+Feel free to connect with me for collaborations or opportunities!
